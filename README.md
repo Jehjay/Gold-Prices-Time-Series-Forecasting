@@ -35,3 +35,7 @@ STEP 5
 <ul><li>Check if the Data is Random or not</li></ul>
 <ul><li>Identify the Components of the Data</li></ul>
 <ul><li>Test for Stationarity</li></ul>
+STEP 5
+<ul><li>Build the Models</li></ul>
+<ul><li>Evaluate the Models</li></ul>
+<ul><li>Visualise the results</li></ul>
