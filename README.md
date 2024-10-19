@@ -9,7 +9,7 @@ Time Series  Analysis | Augmented Dickey Fuller Test | Kwiatowski-Phillips-Schmi
 
 <h2> <i>Results</i> </h2>		
 <ul>  
-<li><i> I Implemented and evaluated Simple Moving Average</i> <i>Moving Average</i> <i>Trailing Moving Average</i> <i>Exponential Smoothing</i> <i>Linear Regression</i> <i>Naive</i> <i>Arima</i> <i>Auto Arima</i>. </li>
+<li> I Implemented and evaluated <i>Simple Moving Average</i>i>, <i>Moving Average</i>, <i>Trailing Moving Average</i>, <i>Exponential Smoothing</i>, <i>Linear Regression</i>, <i>Naive</i>, <i>Arima</i>, <i>Auto Arima</i> Models. </li>
 </ul>
 
 <h2> <i>Data</i> </h2>	
