@@ -16,7 +16,7 @@ Time Series  Analysis | Augmented Dickey Fuller Test | Kwiatowski-Phillips-Schmi
 <h2> <i>Data</i> </h2>	
 ❖ Non-pre-processed dataset sourced from:
 
-[eating habits and physical condition dataset](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition)
+[annual gold prices dataset](https://github.com/Jehjay/Gold-Prices-Time-Series-Forecasting/blob/main/annual_gold_prices.csv)
 
 ❖ There are 70 records in this time series data set.
 
