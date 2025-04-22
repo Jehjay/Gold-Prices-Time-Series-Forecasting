@@ -38,3 +38,7 @@ STEP 6
 <ul><li>Build the Models</li></ul>
 <ul><li>Evaluate the Models</li></ul>
 <ul><li>Visualise the results</li></ul>
+
+## **Developer**
+[Jehoram Mwila](https://www.linkedin.com/in/jehoram-m-1b1772124/), Data and MLOps Engineer
+
